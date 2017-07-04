@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KavaPoint.Web", "KavaPoint.Web\KavaPoint.Web.csproj", "{DD975B79-F307-4B8F-99CF-62B1F2E03E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KavaPoint.Web.Tests", "KavaPoint.Tests\KavaPoint.Web.Tests.csproj", "{58165E79-16DD-49AD-AEE4-1239FA859386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KavaPoint.API", "KavaPoint.API\KavaPoint.API.csproj", "{AF97C6B0-1F59-4113-8FD8-42389702D9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD975B79-F307-4B8F-99CF-62B1F2E03E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD975B79-F307-4B8F-99CF-62B1F2E03E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD975B79-F307-4B8F-99CF-62B1F2E03E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD975B79-F307-4B8F-99CF-62B1F2E03E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58165E79-16DD-49AD-AEE4-1239FA859386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58165E79-16DD-49AD-AEE4-1239FA859386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58165E79-16DD-49AD-AEE4-1239FA859386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58165E79-16DD-49AD-AEE4-1239FA859386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF97C6B0-1F59-4113-8FD8-42389702D9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF97C6B0-1F59-4113-8FD8-42389702D9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF97C6B0-1F59-4113-8FD8-42389702D9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF97C6B0-1F59-4113-8FD8-42389702D9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
